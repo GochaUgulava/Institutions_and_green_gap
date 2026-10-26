@@ -1,0 +1,16 @@
+Panel: data/processed/master_panel_wide.csv | countries: 36 | estimation window: 2012 - 2023 | ref year: 2023
+Indicators used: gdp_pc, emp, p0p50, life_exp, mys, epi_PMD, epi_HFD, epi_NOD, epi_OZD, epi_WASH, epi_TBN, epi_TKP, epi_TCL, epi_RLI, epi_SNM, epi_PSU, co2int, re_elec
+Institutions PC1 explained: overall 85%, capacity 91%, accountability 86%; corr(cap,dem)=0.90
+H2 cross-section M1 (SD social+green ~ institutions | log GDP), per 1 SD: 7.95 [2.37; 13.53], p=0.007 | R2 = 0.77
+   interaction with candidate (M2): -2.68 [-17.65; 12.28], p=0.717
+   two factors (M3): capacity 5.03 [-1.92; 11.99], p=0.150 | accountability 2.00 [-5.27; 9.28], p=0.578
+   bootstrap 95% CI inst: [3.13; 11.03]
+H3 candidates outside 95% PI of EU benchmark (SD social+green, inst): MDA, TUR
+Panel two-way FE, lag1, SD social+green ~ institutions: est=0.13 se=1.14 p=0.912; MDE(80%)=3.20 vs cross-section 7.95
+Decoupling (main window), candidates -> relative decoupling:5; absolute decoupling:3; recession (both fall):1
+Decoupling (main window), EU -> absolute decoupling:25; relative decoupling:2
+Beta convergence (unconditional): SD index b=-0.008 p=0.094 half-life=79.6 yrs; carbon intensity b=-0.002 p=0.876 half-life=365.2 yrs
+Composition scenarios: min Spearman vs base = 0.902 | beta_inst range = 6.37 to 9.83
+Aggregation Spearman (arith vs geo / pca / z): 0.997 / 0.984 / 0.998
+Validation vs EPI overall (Spearman): env = 0.7 | SD index = 0.81
+Clusters: k = 2 (best silhouette 0.43 )

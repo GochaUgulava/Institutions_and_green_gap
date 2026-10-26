@@ -1,0 +1,37 @@
+iso3,cluster_best,cluster_k3,cluster_k4,name,group
+BGR,1,1,1,Bulgaria,EU
+GRC,1,1,1,Greece,EU
+HRV,1,1,1,Croatia,EU
+HUN,1,1,1,Hungary,EU
+POL,1,1,1,Poland,EU
+ROU,1,1,1,Romania,EU
+ALB,1,1,1,Albania,candidate
+BIH,1,3,4,Bosnia and Herzegovina,candidate
+GEO,1,1,1,Georgia,candidate
+MDA,1,1,1,Moldova,candidate
+MKD,1,3,4,North Macedonia,candidate
+MNE,1,1,1,Montenegro,candidate
+SRB,1,3,4,Serbia,candidate
+TUR,1,3,4,Turkiye,candidate
+UKR,1,3,4,Ukraine,candidate
+AUT,2,2,2,Austria,EU
+BEL,2,2,3,Belgium,EU
+CYP,2,2,3,Cyprus,EU
+CZE,2,2,3,Czechia,EU
+DEU,2,2,2,Germany,EU
+DNK,2,2,2,Denmark,EU
+ESP,2,2,3,Spain,EU
+EST,2,2,3,Estonia,EU
+FIN,2,2,2,Finland,EU
+FRA,2,2,3,France,EU
+IRL,2,2,2,Ireland,EU
+ITA,2,2,3,Italy,EU
+LTU,2,2,3,Lithuania,EU
+LUX,2,2,2,Luxembourg,EU
+LVA,2,2,3,Latvia,EU
+MLT,2,2,3,Malta,EU
+NLD,2,2,2,Netherlands,EU
+PRT,2,2,3,Portugal,EU
+SVK,2,2,3,Slovakia,EU
+SVN,2,2,3,Slovenia,EU
+SWE,2,2,2,Sweden,EU

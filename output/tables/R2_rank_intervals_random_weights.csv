@@ -1,0 +1,37 @@
+iso3,name,group,rank_base,rank_p05,rank_median,rank_p95
+LUX,Luxembourg,EU,1,1,2,7
+SWE,Sweden,EU,2,1,2,7
+DNK,Denmark,EU,3,3,4,9
+IRL,Ireland,EU,4,1,4,16
+NLD,Netherlands,EU,5,3,6,14
+AUT,Austria,EU,6,4,6,9
+DEU,Germany,EU,7,3,7,9
+CZE,Czechia,EU,8,2,9,18
+FIN,Finland,EU,9,4,10,14
+MLT,Malta,EU,10,5,10,24
+SVK,Slovakia,EU,11,2,12,18
+SVN,Slovenia,EU,12,5,12,19
+LTU,Lithuania,EU,13,2,13,22
+FRA,France,EU,14,9,15,19
+CYP,Cyprus,EU,15,7,13,30
+EST,Estonia,EU,16,10,15,22
+BEL,Belgium,EU,17,13,17,25
+POL,Poland,EU,18,13,18,25
+HUN,Hungary,EU,19,11,19,24
+LVA,Latvia,EU,20,10,20,25
+ESP,Spain,EU,21,16,20,26
+PRT,Portugal,EU,22,13,22,27
+ITA,Italy,EU,23,17,22,27
+HRV,Croatia,EU,24,14,24,25
+GRC,Greece,EU,25,18,24,30
+BGR,Bulgaria,EU,26,19,27,32
+ALB,Albania,candidate,27,20,28,32
+ROU,Romania,EU,28,22,28,32
+MDA,Moldova,candidate,29,22,31,35
+GEO,Georgia,candidate,30,26,31,34
+MNE,Montenegro,candidate,31,26,31,35
+SRB,Serbia,candidate,32,27,31,33
+UKR,Ukraine,candidate,33,22,32,35
+MKD,North Macedonia,candidate,34,30,33,35
+BIH,Bosnia and Herzegovina,candidate,35,29,35,36
+TUR,Turkiye,candidate,36,33,36,36

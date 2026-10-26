@@ -1,0 +1,273 @@
+iso3,source,panel_type,year,value,value01
+GEO,WGI voice & accountability,Democracy / accountability,2009,-0.00215289999999999,37.71095313592117
+GEO,V-Dem liberal democracy,Democracy / accountability,2009,0.34,30.100755667506295
+GEO,V-Dem polyarchy,Democracy / accountability,2009,0.491,32.38993710691824
+GEO,Freedom House total,Democracy / accountability,2009,54,33.33333333333333
+GEO,EIU Democracy Index,Democracy / accountability,2009,NA,NA
+GEO,WGI control of corruption,State capacity,2009,0.1497945,38.54463312875496
+GEO,WGI government effectiveness,State capacity,2009,-0.07011579999999999,24.14192806273368
+GEO,V-Dem rule of law,State capacity,2009,0.803,77.53456221198157
+GEO,WGI voice & accountability,Democracy / accountability,2010,0.0187585,38.42393494604408
+GEO,V-Dem liberal democracy,Democracy / accountability,2010,0.34,30.100755667506295
+GEO,V-Dem polyarchy,Democracy / accountability,2010,0.496,33.17610062893082
+GEO,Freedom House total,Democracy / accountability,2010,56,36.231884057971016
+GEO,EIU Democracy Index,Democracy / accountability,2010,4.59,8.865248226950353
+GEO,WGI control of corruption,State capacity,2010,0.2616507,41.702948098900016
+GEO,WGI government effectiveness,State capacity,2010,0.0968382,29.621675424698147
+GEO,V-Dem rule of law,State capacity,2010,0.795,76.61290322580646
+GEO,WGI voice & accountability,Democracy / accountability,2011,0.00672829999999999,38.01376088920711
+GEO,V-Dem liberal democracy,Democracy / accountability,2011,0.344,30.604534005037777
+GEO,V-Dem polyarchy,Democracy / accountability,2011,0.5,33.80503144654088
+GEO,Freedom House total,Democracy / accountability,2011,58,39.130434782608695
+GEO,EIU Democracy Index,Democracy / accountability,2011,4.74,11.524822695035466
+GEO,WGI control of corruption,State capacity,2011,0.3269511,43.54673709652787
+GEO,WGI government effectiveness,State capacity,2011,0.3912924,39.28622150127827
+GEO,V-Dem rule of law,State capacity,2011,0.799,77.07373271889402
+GEO,WGI voice & accountability,Democracy / accountability,2012,0.04485559999999999,39.31372508907414
+GEO,V-Dem liberal democracy,Democracy / accountability,2012,0.361,32.7455919395466
+GEO,V-Dem polyarchy,Democracy / accountability,2012,0.519,36.79245283018868
+GEO,Freedom House total,Democracy / accountability,2012,60,42.028985507246375
+GEO,EIU Democracy Index,Democracy / accountability,2012,5.53,25.531914893617024
+GEO,WGI control of corruption,State capacity,2012,0.5303515,49.28984769972637
+GEO,WGI government effectiveness,State capacity,2012,0.5120771,43.25060475169856
+GEO,V-Dem rule of law,State capacity,2012,0.81,78.3410138248848
+GEO,WGI voice & accountability,Democracy / accountability,2013,0.139287,42.53339811452633
+GEO,V-Dem liberal democracy,Democracy / accountability,2013,0.456,44.71032745591939
+GEO,V-Dem polyarchy,Democracy / accountability,2013,0.623,53.1446540880503
+GEO,Freedom House total,Democracy / accountability,2013,63,46.3768115942029
+GEO,EIU Democracy Index,Democracy / accountability,2013,5.95,32.97872340425532
+GEO,WGI control of corruption,State capacity,2013,0.5523302999999999,49.910429956819186
+GEO,WGI government effectiveness,State capacity,2013,0.5224535,43.5911779067394
+GEO,V-Dem rule of law,State capacity,2013,0.807,77.99539170506912
+GEO,WGI voice & accountability,Democracy / accountability,2014,0.2697803,46.98261477352153
+GEO,V-Dem liberal democracy,Democracy / accountability,2014,0.5,50.25188916876574
+GEO,V-Dem polyarchy,Democracy / accountability,2014,0.675,61.32075471698113
+GEO,Freedom House total,Democracy / accountability,2014,64,47.82608695652174
+GEO,EIU Democracy Index,Democracy / accountability,2014,5.82,30.673758865248228
+GEO,WGI control of corruption,State capacity,2014,0.7884059999999999,56.57614376970997
+GEO,WGI government effectiveness,State capacity,2014,0.5085239,43.13398197939881
+GEO,V-Dem rule of law,State capacity,2014,0.801,77.3041474654378
+GEO,WGI voice & accountability,Democracy / accountability,2015,0.2822098,47.406403109497255
+GEO,V-Dem liberal democracy,Democracy / accountability,2015,0.504,50.75566750629723
+GEO,V-Dem polyarchy,Democracy / accountability,2015,0.668,60.22012578616353
+GEO,Freedom House total,Democracy / accountability,2015,64,47.82608695652174
+GEO,EIU Democracy Index,Democracy / accountability,2015,5.88,31.73758865248227
+GEO,WGI control of corruption,State capacity,2015,0.7554356999999999,55.64521108953512
+GEO,WGI government effectiveness,State capacity,2015,0.4404113999999999,40.8984003689444
+GEO,V-Dem rule of law,State capacity,2015,0.796,76.72811059907835
+GEO,WGI voice & accountability,Democracy / accountability,2016,0.32547139999999997,48.88142314052404
+GEO,V-Dem liberal democracy,Democracy / accountability,2016,0.518,52.51889168765743
+GEO,V-Dem polyarchy,Democracy / accountability,2016,0.685,62.893081761006286
+GEO,Freedom House total,Democracy / accountability,2016,64,47.82608695652174
+GEO,EIU Democracy Index,Democracy / accountability,2016,5.93,32.624113475177296
+GEO,WGI control of corruption,State capacity,2016,0.7796839,56.3298709748081
+GEO,WGI government effectiveness,State capacity,2016,0.5584546,44.77280238265982
+GEO,V-Dem rule of law,State capacity,2016,0.798,76.95852534562212
+GEO,WGI voice & accountability,Democracy / accountability,2017,0.2575808,46.5666683714349
+GEO,V-Dem liberal democracy,Democracy / accountability,2017,0.498,50
+GEO,V-Dem polyarchy,Democracy / accountability,2017,0.669,60.37735849056604
+GEO,Freedom House total,Democracy / accountability,2017,64,47.82608695652174
+GEO,EIU Democracy Index,Democracy / accountability,2017,5.93,32.624113475177296
+GEO,WGI control of corruption,State capacity,2017,0.8425954999999999,58.10621102637232
+GEO,WGI government effectiveness,State capacity,2017,0.5928819,45.90277175359169
+GEO,V-Dem rule of law,State capacity,2017,0.788,75.80645161290323
+GEO,WGI voice & accountability,Democracy / accountability,2018,0.2403158,45.97801189928229
+GEO,V-Dem liberal democracy,Democracy / accountability,2018,0.514,52.015113350125944
+GEO,V-Dem polyarchy,Democracy / accountability,2018,0.663,59.43396226415094
+GEO,Freedom House total,Democracy / accountability,2018,63,46.3768115942029
+GEO,EIU Democracy Index,Democracy / accountability,2018,5.5,25
+GEO,WGI control of corruption,State capacity,2018,0.8442531999999999,58.153017003385756
+GEO,WGI government effectiveness,State capacity,2018,0.4065234,39.78613184826055
+GEO,V-Dem rule of law,State capacity,2018,0.779,74.76958525345623
+GEO,WGI voice & accountability,Democracy / accountability,2019,0.2139065,45.07757718338192
+GEO,V-Dem liberal democracy,Democracy / accountability,2019,0.48,47.732997481108306
+GEO,V-Dem polyarchy,Democracy / accountability,2019,0.627,53.77358490566038
+GEO,Freedom House total,Democracy / accountability,2019,61,43.47826086956522
+GEO,EIU Democracy Index,Democracy / accountability,2019,5.42,23.581560283687942
+GEO,WGI control of corruption,State capacity,2019,0.8450784,58.17631693234243
+GEO,WGI government effectiveness,State capacity,2019,0.395363,39.41982632423316
+GEO,V-Dem rule of law,State capacity,2019,0.773,74.07834101382488
+GEO,WGI voice & accountability,Democracy / accountability,2020,0.1571206,43.14144121106735
+GEO,V-Dem liberal democracy,Democracy / accountability,2020,0.47,46.47355163727959
+GEO,V-Dem polyarchy,Democracy / accountability,2020,0.616,52.044025157232696
+GEO,Freedom House total,Democracy / accountability,2020,60,42.028985507246375
+GEO,EIU Democracy Index,Democracy / accountability,2020,5.31,21.631205673758856
+GEO,WGI control of corruption,State capacity,2020,0.8156114999999999,57.34430447890876
+GEO,WGI government effectiveness,State capacity,2020,0.3545441,38.080072502262496
+GEO,V-Dem rule of law,State capacity,2020,0.767,73.38709677419355
+GEO,WGI voice & accountability,Democracy / accountability,2021,0.0799995,40.51196917779028
+GEO,V-Dem liberal democracy,Democracy / accountability,2021,0.454,44.45843828715365
+GEO,V-Dem polyarchy,Democracy / accountability,2021,0.604,50.15723270440251
+GEO,Freedom House total,Democracy / accountability,2021,58,39.130434782608695
+GEO,EIU Democracy Index,Democracy / accountability,2021,5.12,18.26241134751773
+GEO,WGI control of corruption,State capacity,2021,0.7241193,54.7609770914997
+GEO,WGI government effectiveness,State capacity,2021,0.3393889,37.582650055240904
+GEO,V-Dem rule of law,State capacity,2021,0.751,71.54377880184332
+GEO,WGI voice & accountability,Democracy / accountability,2022,0.0171242,38.368212891457404
+GEO,V-Dem liberal democracy,Democracy / accountability,2022,0.464,45.71788413098237
+GEO,V-Dem polyarchy,Democracy / accountability,2022,0.607,50.628930817610055
+GEO,Freedom House total,Democracy / accountability,2022,58,39.130434782608695
+GEO,EIU Democracy Index,Democracy / accountability,2022,5.2,19.680851063829792
+GEO,WGI control of corruption,State capacity,2022,0.6515989,52.71332783324751
+GEO,WGI government effectiveness,State capacity,2022,0.3302468,37.28258897040427
+GEO,V-Dem rule of law,State capacity,2022,0.744,70.73732718894009
+GEO,WGI voice & accountability,Democracy / accountability,2023,-0.06830889999999999,35.455340186501644
+GEO,V-Dem liberal democracy,Democracy / accountability,2023,0.456,44.71032745591939
+GEO,V-Dem polyarchy,Democracy / accountability,2023,0.591,48.1132075471698
+GEO,Freedom House total,Democracy / accountability,2023,58,39.130434782608695
+GEO,EIU Democracy Index,Democracy / accountability,2023,5.2,19.680851063829792
+GEO,WGI control of corruption,State capacity,2023,0.6723352,53.29882749008744
+GEO,WGI government effectiveness,State capacity,2023,0.4529693,41.31057449712831
+GEO,V-Dem rule of law,State capacity,2023,0.752,71.6589861751152
+GEO,WGI voice & accountability,Democracy / accountability,2024,-0.2806305,28.21615779334799
+GEO,V-Dem liberal democracy,Democracy / accountability,2024,0.327,28.463476070528966
+GEO,V-Dem polyarchy,Democracy / accountability,2024,0.48,30.66037735849056
+GEO,Freedom House total,Democracy / accountability,2024,55,34.78260869565217
+GEO,EIU Democracy Index,Democracy / accountability,2024,4.7,10.815602836879437
+GEO,WGI control of corruption,State capacity,2024,0.4048995,45.7476486116594
+GEO,WGI government effectiveness,State capacity,2024,0.3123896,36.696481751696886
+GEO,V-Dem rule of law,State capacity,2024,0.599,54.03225806451613
+GEO,WGI voice & accountability,Democracy / accountability,2025,-0.35881409999999997,25.5504594350398
+GEO,V-Dem liberal democracy,Democracy / accountability,2025,0.275,21.91435768261965
+GEO,V-Dem polyarchy,Democracy / accountability,2025,0.401,18.23899371069183
+GEO,Freedom House total,Democracy / accountability,2025,51,28.985507246376812
+GEO,EIU Democracy Index,Democracy / accountability,2025,NA,NA
+GEO,WGI control of corruption,State capacity,2025,-0.1401098,30.359042248683714
+GEO,WGI government effectiveness,State capacity,2025,0.35126809999999997,37.97254796042585
+GEO,V-Dem rule of law,State capacity,2025,0.543,47.58064516129033
+MDA,WGI voice & accountability,Democracy / accountability,2009,-0.1308552,33.32280127516663
+MDA,V-Dem liberal democracy,Democracy / accountability,2009,0.358,32.367758186397985
+MDA,V-Dem polyarchy,Democracy / accountability,2009,0.457,27.044025157232703
+MDA,Freedom House total,Democracy / accountability,2009,58,39.130434782608695
+MDA,EIU Democracy Index,Democracy / accountability,2009,NA,NA
+MDA,WGI control of corruption,State capacity,2009,-0.7664088,12.675181117276773
+MDA,WGI government effectiveness,State capacity,2009,-0.5863142,7.199316201680461
+MDA,V-Dem rule of law,State capacity,2009,0.475,39.74654377880184
+MDA,WGI voice & accountability,Democracy / accountability,2010,0.1432723,42.66927837160538
+MDA,V-Dem liberal democracy,Democracy / accountability,2010,0.508,51.25944584382872
+MDA,V-Dem polyarchy,Democracy / accountability,2010,0.603,49.999999999999986
+MDA,Freedom House total,Democracy / accountability,2010,63,46.3768115942029
+MDA,EIU Democracy Index,Democracy / accountability,2010,6.33,39.71631205673759
+MDA,WGI control of corruption,State capacity,2010,-0.6792402,15.136429526453796
+MDA,WGI government effectiveness,State capacity,2010,-0.3986563,13.358604882854866
+MDA,V-Dem rule of law,State capacity,2010,0.621,56.5668202764977
+MDA,WGI voice & accountability,Democracy / accountability,2011,0.25089,46.338543105064865
+MDA,V-Dem liberal democracy,Democracy / accountability,2011,0.562,58.06045340050379
+MDA,V-Dem polyarchy,Democracy / accountability,2011,0.672,60.84905660377359
+MDA,Freedom House total,Democracy / accountability,2011,65,49.275362318840585
+MDA,EIU Democracy Index,Democracy / accountability,2011,6.33,39.71631205673759
+MDA,WGI control of corruption,State capacity,2011,-0.6444884,16.117663737695437
+MDA,WGI government effectiveness,State capacity,2011,-0.4078072,13.05825496530512
+MDA,V-Dem rule of law,State capacity,2011,0.63,57.603686635944705
+MDA,WGI voice & accountability,Democracy / accountability,2012,0.1272254,42.122153463236664
+MDA,V-Dem liberal democracy,Democracy / accountability,2012,0.558,57.556675062972296
+MDA,V-Dem polyarchy,Democracy / accountability,2012,0.665,59.74842767295597
+MDA,Freedom House total,Democracy / accountability,2012,65,49.275362318840585
+MDA,EIU Democracy Index,Democracy / accountability,2012,6.32,39.53900709219859
+MDA,WGI control of corruption,State capacity,2012,-0.7122566,14.204195190044214
+MDA,WGI government effectiveness,State capacity,2012,-0.3879183,13.711046436652765
+MDA,V-Dem rule of law,State capacity,2012,0.637,58.41013824884793
+MDA,WGI voice & accountability,Democracy / accountability,2013,0.0374469,39.061122760360725
+MDA,V-Dem liberal democracy,Democracy / accountability,2013,0.53,54.030226700251895
+MDA,V-Dem polyarchy,Democracy / accountability,2013,0.638,55.50314465408805
+MDA,Freedom House total,Democracy / accountability,2013,64,47.82608695652174
+MDA,EIU Democracy Index,Democracy / accountability,2013,6.32,39.53900709219859
+MDA,WGI control of corruption,State capacity,2013,-0.8029238,11.644162084493193
+MDA,WGI government effectiveness,State capacity,2013,-0.3418499,15.22309881856589
+MDA,V-Dem rule of law,State capacity,2013,0.58,51.84331797235022
+MDA,WGI voice & accountability,Democracy / accountability,2014,0.0325414,38.89386794865238
+MDA,V-Dem liberal democracy,Democracy / accountability,2014,0.516,52.267002518891694
+MDA,V-Dem polyarchy,Democracy / accountability,2014,0.623,53.1446540880503
+MDA,Freedom House total,Democracy / accountability,2014,63,46.3768115942029
+MDA,EIU Democracy Index,Democracy / accountability,2014,6.32,39.53900709219859
+MDA,WGI control of corruption,State capacity,2014,-0.9830633,6.557834464169544
+MDA,WGI government effectiveness,State capacity,2014,-0.3173493,16.02725504253505
+MDA,V-Dem rule of law,State capacity,2014,0.58,51.84331797235022
+MDA,WGI voice & accountability,Democracy / accountability,2015,0.0053825,37.96787534734653
+MDA,V-Dem liberal democracy,Democracy / accountability,2015,0.476,47.22921914357682
+MDA,V-Dem polyarchy,Democracy / accountability,2015,0.57,44.811320754716974
+MDA,Freedom House total,Democracy / accountability,2015,60,42.028985507246375
+MDA,EIU Democracy Index,Democracy / accountability,2015,6.35,40.070921985815595
+MDA,WGI control of corruption,State capacity,2015,-1.0527956,4.588908584400281
+MDA,WGI government effectiveness,State capacity,2015,-0.4939069,10.232299289245054
+MDA,V-Dem rule of law,State capacity,2015,0.508,43.54838709677419
+MDA,WGI voice & accountability,Democracy / accountability,2016,-0.0424649,36.33650079271723
+MDA,V-Dem liberal democracy,Democracy / accountability,2016,0.433,41.81360201511335
+MDA,V-Dem polyarchy,Democracy / accountability,2016,0.529,38.36477987421384
+MDA,Freedom House total,Democracy / accountability,2016,62,44.927536231884055
+MDA,EIU Democracy Index,Democracy / accountability,2016,6.01,34.042553191489354
+MDA,WGI control of corruption,State capacity,2016,-1.1144129,2.8491137316346835
+MDA,WGI government effectiveness,State capacity,2016,-0.4701282,11.012761384169073
+MDA,V-Dem rule of law,State capacity,2016,0.459,37.903225806451616
+MDA,WGI voice & accountability,Democracy / accountability,2017,-0.05166549999999999,36.02280297993487
+MDA,V-Dem liberal democracy,Democracy / accountability,2017,0.394,36.90176322418136
+MDA,V-Dem polyarchy,Democracy / accountability,2017,0.503,34.276729559748425
+MDA,Freedom House total,Democracy / accountability,2017,61,43.47826086956522
+MDA,EIU Democracy Index,Democracy / accountability,2017,5.94,32.801418439716315
+MDA,WGI control of corruption,State capacity,2017,-0.9504303,7.479243312501096
+MDA,WGI government effectiveness,State capacity,2017,-0.324197,15.802500523263127
+MDA,V-Dem rule of law,State capacity,2017,0.497,42.28110599078341
+MDA,WGI voice & accountability,Democracy / accountability,2018,-0.0942965,34.56928348591009
+MDA,V-Dem liberal democracy,Democracy / accountability,2018,0.39,36.39798488664987
+MDA,V-Dem polyarchy,Democracy / accountability,2018,0.506,34.74842767295597
+MDA,Freedom House total,Democracy / accountability,2018,58,39.130434782608695
+MDA,EIU Democracy Index,Democracy / accountability,2018,5.85,31.20567375886524
+MDA,WGI control of corruption,State capacity,2018,-0.8705151,9.7356883955822
+MDA,WGI government effectiveness,State capacity,2018,-0.1505819,21.500877838105524
+MDA,V-Dem rule of law,State capacity,2018,0.471,39.285714285714285
+MDA,WGI voice & accountability,Democracy / accountability,2019,-0.0575903,35.82079476295198
+MDA,V-Dem liberal democracy,Democracy / accountability,2019,0.445,43.324937027707804
+MDA,V-Dem polyarchy,Democracy / accountability,2019,0.588,47.641509433962256
+MDA,Freedom House total,Democracy / accountability,2019,60,42.028985507246375
+MDA,EIU Democracy Index,Democracy / accountability,2019,5.75,29.432624113475175
+MDA,WGI control of corruption,State capacity,2019,-0.7756071,12.415462580531512
+MDA,WGI government effectiveness,State capacity,2019,-0.1990611,19.909698421558765
+MDA,V-Dem rule of law,State capacity,2019,0.505,43.20276497695853
+MDA,WGI voice & accountability,Democracy / accountability,2020,6.016e-4,37.80486881808418
+MDA,V-Dem liberal democracy,Democracy / accountability,2020,0.518,52.51889168765743
+MDA,V-Dem polyarchy,Democracy / accountability,2020,0.651,57.54716981132076
+MDA,Freedom House total,Democracy / accountability,2020,61,43.47826086956522
+MDA,EIU Democracy Index,Democracy / accountability,2020,5.78,29.9645390070922
+MDA,WGI control of corruption,State capacity,2020,-0.7328496,13.62274167937429
+MDA,WGI government effectiveness,State capacity,2020,-0.1995639,19.893195570632187
+MDA,V-Dem rule of law,State capacity,2020,0.618,56.22119815668203
+MDA,WGI voice & accountability,Democracy / accountability,2021,0.1024435,41.2772055439063
+MDA,V-Dem liberal democracy,Democracy / accountability,2021,0.618,65.11335012594458
+MDA,V-Dem polyarchy,Democracy / accountability,2021,0.752,73.42767295597483
+MDA,Freedom House total,Democracy / accountability,2021,62,44.927536231884055
+MDA,EIU Democracy Index,Democracy / accountability,2021,6.1,35.63829787234042
+MDA,WGI control of corruption,State capacity,2021,-0.5510841,18.754980211578157
+MDA,WGI government effectiveness,State capacity,2021,-0.1768566,20.638492282734536
+MDA,V-Dem rule of law,State capacity,2021,0.765,73.15668202764977
+MDA,WGI voice & accountability,Democracy / accountability,2022,0.1822155,43.99706097955983
+MDA,V-Dem liberal democracy,Democracy / accountability,2022,0.643,68.26196473551637
+MDA,V-Dem polyarchy,Democracy / accountability,2022,0.76,74.68553459119495
+MDA,Freedom House total,Democracy / accountability,2022,62,44.927536231884055
+MDA,EIU Democracy Index,Democracy / accountability,2022,6.23,37.943262411347526
+MDA,WGI control of corruption,State capacity,2022,-0.4226647,22.380965302051877
+MDA,WGI government effectiveness,State capacity,2022,-0.1175723,22.584315602516693
+MDA,V-Dem rule of law,State capacity,2022,0.811,78.45622119815668
+MDA,WGI voice & accountability,Democracy / accountability,2023,0.3078285,48.27988203003802
+MDA,V-Dem liberal democracy,Democracy / accountability,2023,0.602,63.09823677581864
+MDA,V-Dem polyarchy,Democracy / accountability,2023,0.712,67.13836477987421
+MDA,Freedom House total,Democracy / accountability,2023,61,43.47826086956522
+MDA,EIU Democracy Index,Democracy / accountability,2023,6.23,37.943262411347526
+MDA,WGI control of corruption,State capacity,2023,-0.2679002,26.750817283408434
+MDA,WGI government effectiveness,State capacity,2023,-0.08766979999999999,23.565772443869054
+MDA,V-Dem rule of law,State capacity,2023,0.815,78.91705069124423
+MDA,WGI voice & accountability,Democracy / accountability,2024,0.3189731,48.65986123186553
+MDA,V-Dem liberal democracy,Democracy / accountability,2024,0.503,50.62972292191436
+MDA,V-Dem polyarchy,Democracy / accountability,2024,0.622,52.98742138364779
+MDA,Freedom House total,Democracy / accountability,2024,60,42.028985507246375
+MDA,EIU Democracy Index,Democracy / accountability,2024,6.04,34.57446808510638
+MDA,WGI control of corruption,State capacity,2024,-0.2918919,26.07339980213132
+MDA,WGI government effectiveness,State capacity,2024,0.1932837,32.787199905682996
+MDA,V-Dem rule of law,State capacity,2024,0.801,77.3041474654378
+MDA,WGI voice & accountability,Democracy / accountability,2025,0.2626659,46.740046710649686
+MDA,V-Dem liberal democracy,Democracy / accountability,2025,0.449,43.82871536523929
+MDA,V-Dem polyarchy,Democracy / accountability,2025,0.553,42.138364779874216
+MDA,Freedom House total,Democracy / accountability,2025,60,42.028985507246375
+MDA,EIU Democracy Index,Democracy / accountability,2025,NA,NA
+MDA,WGI control of corruption,State capacity,2025,-0.2539549,27.144569706190218
+MDA,WGI government effectiveness,State capacity,2025,0.2141923,33.47345986766276
+MDA,V-Dem rule of law,State capacity,2025,0.789,75.92165898617512

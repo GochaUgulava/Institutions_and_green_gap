@@ -1,0 +1,6 @@
+pair,partial_spearman
+sd_nogdp~inst|lgdp,0.5487773487773489
+sd_nogdp~cap|lgdp,0.5093951093951095
+sd_nogdp~dem|lgdp,0.46460746460746466
+env~inst|lgdp,0.5482625482625483
+social~inst|lgdp,0.27001287001287005
